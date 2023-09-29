@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11db6b32-2ebb-4fac-99e8-fbf3881ed834" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ParsecVR/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ParsecVR/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ParsecVR/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ParsecVR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/ParsecScreen.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Materials/G3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Materials/G3_Power.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Materials/TouchSphere.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Meshes/G3.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Meshes/dianliang.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Shaders/PXR_G3.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Textures/G3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Textures/Power/dianliang_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Textures/Power/dianliang_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Textures/Power/dianliang_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Textures/Power/dianliang_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/G3/Textures/Power/dianliang_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo 3 L.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo 3 R.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo3/Animators/Neo3_Controller_Left.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo3/Animators/Neo3_Controller_Right.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo3/Materials/Neo3_Controller_Left.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo3/Materials/Neo3_Controller_Right.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo3/Materials/Neo3_Power_Left.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo3/Materials/Neo3_Power_Right.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo3/Meshes/Neo3_Controller_Left.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo3/Meshes/Neo3_Controller_Right.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo3/PXR_Neo3.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/Neo3/Textures/controller5_idle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4 L.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4 R.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Animators/PICO4_Controller_Left.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Animators/PICO4_Controller_Right.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Materials/PICO4_Controller.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Materials/PICO4__Power.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Meshes/PICO4_Controller_Left.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Meshes/PICO4_Controller_Right.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Shaders/PXR_PICO4.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Shaders/PXR_PICO4_Power.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Textures/PICO4_Controller_Albedo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Textures/Power/PICO4_ControllerPower_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Textures/Power/PICO4_ControllerPower_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Textures/Power/PICO4_ControllerPower_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Textures/Power/PICO4_ControllerPower_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Controller/PICO 4/Textures/Power/PICO4_ControllerPower_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/Finger/Any.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/Finger/AnyFade.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/Finger/Highlight.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/Finger/Open.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/Finger/OpenFade.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/Finger/Pointer.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/Floor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/HPE_Outline_hand.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/HPE_Outline_head.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/HPE_hand_axis.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/HPE_head_fade.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/HandEditorTransparentOutlinedHandPrepassZ.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/Hand_R.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/Hand_Shadow_Long.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Materials/Hand_Shadow_Short.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Objects/hand_axis.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Objects/hand_model.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Objects/head_model.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Shaders/HPE_hand_axis.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Shaders/HPE_hand_fade.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Shaders/HPE_hand_floorshadow.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Shaders/HPE_hand_highlight.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Shaders/HPE_hand_outline.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Shaders/HPE_head_fade.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Shaders/TransparentOutlinedHand-PrepassZ.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Texture/FloorGrid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Texture/Hand_Shadow_Long.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/HandPose/Texture/Hand_Shadow_Short.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/Materials/HandRay.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/Materials/Hand_L.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/Materials/Hand_R.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/Models/Hand_L.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/Models/Hand_R.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/Models/Hand_Ray.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/Shaders/PXR_Hand.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Hand/Shaders/PXR_HandRay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Prefabs/HandLeft.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Prefabs/HandPoseGenerator.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Prefabs/HandRight.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Prefabs/LeftControllerModel.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Prefabs/RightControllerModel .prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Shader/PXR_CubemapBlit.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Shader/PXR_EyeMask.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Shader/PXR_Fade.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/Shader/PXR_UnderlayHole.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/UnderlayHole.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/green.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/grid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/plane.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Assets/Resources/unlitcontroller.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Editor/PXR_BuildProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Editor/PXR_HandEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Editor/PXR_HandPoseGeneratorEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Editor/PXR_ManagerEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Editor/PXR_Metadata.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Editor/PXR_OverLayEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Editor/PXR_SDKBuildCheck.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Editor/PXR_SDKSettingAsset.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Editor/PXR_SDKSettingEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Editor/PXR_SettingsEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Editor/Unity.XR.PICO.Editor.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/PICOXR.TobSupport.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/ControllerKeyEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/ControllerPairTimeEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/CustomizeSettingsTabEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/DeviceControlEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/HomeEventEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/HomeFunctionEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/PICOCastOptionOrStatusEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/PICOCastOptionValueEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/PICOCastUrlTypeEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/PackageControlEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/PicoCastMediaFormat.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/PowerOnOffLogoEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/ScreenOffDelayTimeEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/ScreencastAudioOutputEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/SleepDelayTimeEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/StartVRSettingsEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/SwitchEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/SystemFunctionSwitchEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/SystemInfoEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Enums/USBConfigModeEnum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Interfaces/BindCallback.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Interfaces/BoolCallback.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Interfaces/IntCallback.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Interfaces/LongCallback.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Interfaces/MarkerInfoCallback.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Interfaces/StringCallback.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Interfaces/WifiDisplayModelCallback.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Model/MarkerInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Model/WifiDisplayModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/PXR_Enterprise.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Plugin/PXR_EnterprisePlugin.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Plugin/PXR_EnterpriseTools.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/Scripts/Plugin/PXR_SystemPlugin.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/android/ToBServiceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/android/interfaces/BoolCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/android/interfaces/IntCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/android/interfaces/LongCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/android/interfaces/StringCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Enterprise/android/tobservicelib.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Editor/EditorConf.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Editor/Gs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Editor/Menu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Editor/PICO.Platform.Editor.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Editor/PXR_PlatformSettingEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Editor/PcConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Editor/PicoGs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Editor/PlatformConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Editor/PlatformManifestRewrite.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Editor/PlatformPreprocessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Pico.Platform.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Plugins/Android64/libpxrplatformloader.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Plugins/Windows/RTCFFmpeg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Plugins/Windows/VolcEngineRTC.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Plugins/Windows/libEGL.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Plugins/Windows/libGLESv2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Plugins/Windows/libpxrplatformloader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Plugins/Windows/openh264-4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Plugins/Windows/pthreadVC2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Samples/Materials/Sky.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Samples/Materials/skybox.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Samples/SimpleDemo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Samples/SimpleDemo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/CLIB/CLIB.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/CLIB/CLIB2.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/CLIB/MarshalUtil.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Framework/Looper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Framework/Message.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Framework/MessageQueue.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Framework/PXR_PlatformSetting.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Framework/Runner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Framework/Task.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Framework/TimeUtil.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Achievement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Application.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/AssetFile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Challenge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Common.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Compliance.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Highlight.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/IAP.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Leaderboard.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Matchmaking.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Notification.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Packet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Presence.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/RTC.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Room.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Speech.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/Sport.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Models/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Achievements.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Application.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/AssetFile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Challenges.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Compliance.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Core.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Highlight.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/IAP.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Leaderboard.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Matchmaking.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Network.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Notification.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Presence.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/RTC.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Room.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Speech.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/Sport.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Platform/Scripts/Service/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Android/PxrPlatform.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Android/pxr_api-release.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/InputSystem/DeviceLayouts.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Controller/PXR_ControllerAnimator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Controller/PXR_ControllerG3Animator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Controller/PXR_ControllerLoader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Controller/PXR_ControllerPower.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Features/PXR_Boundary.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Features/PXR_EyeTracking.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Features/PXR_FoveationRendering.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Features/PXR_HandTracking.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Features/PXR_Input.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Features/PXR_LateLatching.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Features/PXR_MixedReality.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Features/PXR_MotionTracking.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Features/PXR_OverLay.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Features/PXR_ScreenFade.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Features/PXR_System.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Hand/PXR_Hand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Hand/PXR_HandPose.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Hand/PXR_HandPoseConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Hand/PXR_HandPoseGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Hand/PXR_HandPosePreview.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Hand/PXR_HandSubsystem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/PXR_Loader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/PXR_Manager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/PXR_OverlayManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/PXR_Plugin.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/PXR_ProjectSetting.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/PXR_Settings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/PXR_Usages.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/LitJson/IJsonWrapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/LitJson/JsonData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/LitJson/JsonException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/LitJson/JsonMapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/LitJson/JsonMockWrapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/LitJson/JsonReader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/LitJson/JsonWriter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/LitJson/Lexer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/LitJson/Netstandard15Polyfill.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/LitJson/ParserToken.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/PXR_Log.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/PXR_ObjImporter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Scripts/Utils/PXR_PhfFile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/Unity.XR.PICO.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/Runtime/UnitySubsystemsManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Editor/PXR_Audio_Spatializer_ContextEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Editor/PXR_Audio_Spatializer_SceneGeometryEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Editor/Pico.Spatializer.Editor.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Pico.Spatializer.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Plugins/Android/libs/arm64-v8a/libPicoAmbisonicDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Plugins/Android/libs/arm64-v8a/libPicoSpatializer.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Plugins/Android/libs/armeabi-v7a/libPicoAmbisonicDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Plugins/Android/libs/armeabi-v7a/libPicoSpatializer.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Plugins/OSX/x86_64/libPicoAmbisonicDecoder.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Plugins/OSX/x86_64/libPicoSpatializer.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Prefabs/PicoSoundReflectionObject.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Runtime/PXR_Audio_Spatializer_API.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Runtime/PXR_Audio_Spatializer_AmbisonicSource.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Runtime/PXR_Audio_Spatializer_AudioListener.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Runtime/PXR_Audio_Spatializer_AudioSource.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Runtime/PXR_Audio_Spatializer_Context.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Runtime/PXR_Audio_Spatializer_SceneGeometry.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Runtime/PXR_Audio_Spatializer_SceneMaterial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Runtime/PXR_Audio_Spatializer_Types.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/Pico.Spatializer.Example.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/SampleScene_env_acoustics_10_source_music.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/SampleScene_env_acoustics_1_source_music.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/SampleScene_env_acoustics_2_source_music.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/SampleScene_freefield_10_sources.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/SampleScene_freefield_1_source_music.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/SampleScene_freefield_2_source_music.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/SampleScene_freefield_ambisonic_source_music.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/audio/loop_48k.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/audio/loop_FOA_48k.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/audio/speech_48k.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/material/green_house/glass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/material/green_house/marble.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/material/green_house/stone.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/material/green_house/wood.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/material/sami_logo.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/material/sami_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/material/unity_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/material/unity_logo.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/mixers/Ambisonic_bus.mixer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/model/green_house/green_house.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/SpatialAudio/Samples/scripts/plastic_fps_controller.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PICO Unity Integration SDK 230/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Parsec SDK/Runtime/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Parsec SDK/Runtime/ParsecSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/PXR_PlatformSetting.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/PXR_ProjectSetting.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/PXR_SDKSettingAsset.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/PicoSdkPCConfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/AffordanceThemes/InteractionColorAffordanceTheme.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Audio/Button Pop.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/DemoScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Editor/Scripts/StarterAssetsSampleProjectValidation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Editor/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Models/Primitive_Cylinder.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Models/Primitive_Pyramid.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Models/Primitive_Torus.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Models/Primitive_Wedge.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Models/PushButton.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Models/XRControllerLeft.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Models/XRControllerRight.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Climb Sample.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Climb/Climbing Wall.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Climb/Ladder.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Controllers/XR Controller Left.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Controllers/XR Controller Right.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Interactables Sample.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Interactables/Interactable Instant Pyramid.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Interactables/Interactable Kinematic Torus.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Interactables/Interactable Simple Cube.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Interactables/Interactable Velocity Tracked Wedge.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Interactables/Interaction Affordance.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Interactors/Direct Interactor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Interactors/Gaze Interactor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Interactors/Poke Interactor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Interactors/Ray Interactor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Interactors/Teleport Interactor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Teleport/Blocking Teleport Reticle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Teleport/Directional Teleport Reticle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Teleport/Snapping Teleport Anchor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Teleport/Teleport Anchor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Teleport/Teleport Area.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/Teleportation Environment.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/UI Sample.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/UI_2D/Dropdown.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/UI_2D/Interactive Controls.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/UI_2D/MinMaxSlider.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/UI_2D/ModalSingleButton.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/UI_2D/Scroll UI Sample.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/UI_2D/TextButton.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/UI_3D/Push Button.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/XR Interaction Setup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Prefabs/XR Origin (XR Rig).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Scripts/ActionBasedControllerManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Scripts/DynamicMoveProvider.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Scripts/GazeInputManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Scripts/PokeStation/IncrementUIText.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Scripts/XRPokeFollowAffordance.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default Continuous Move.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default Continuous Turn.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default Gaze Controller.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default Input Actions.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default Left ActionBasedControllerManager.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default Left Controller.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default Left Grab Move.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default Right ActionBasedControllerManager.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default Right Controller.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default Right Grab Move.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default Snap Turn.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Starter Assets/XRI Default XR UI Input Module.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette/TunnelingVignette.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette/TunnelingVignette.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette/TunnelingVignette.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette/TunnelingVignetteHemisphere.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.4.3/Tunneling Vignette/TunnelingVignetteSG.shadergraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/BasicScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/BasicScene/Grid.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/BasicScene/Grid_Light_512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/LightingData.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/Lightmap-0_comp_shadowmask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-0.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/ReflectionProbe-1.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Project Configuration/Android Preset.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Project Configuration/BasicScene.scenetemplate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Project Configuration/Performance URP Config.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Project Configuration/Quality URP Config.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Project Configuration/SampleScene.scenetemplate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Project Configuration/Standalone Preset.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Project Configuration/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Audio/Button_14_hover.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Audio/Button_22_click.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Fonts/Inter/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF Material XRay Blue.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF NoBackfaceCulling.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF Overlay Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF Overlay Outline Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF Overlay Outline Thick Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Fonts/Inter/Inter-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Graphics/Post Process Volume Profile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Graphics/Template Lighting Settings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Anchor Materials/Anchor Base.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Anchor Materials/Anchor Blue Glow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Anchor Materials/Anchor Glow Gradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Anchor Materials/Blue Anchor Arrow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Anchor Materials/White_Mixed_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Controller/Blue.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Controller/Controller.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Controller/DefaultMaterial_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Controller/UniversalMaterialGrey.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Controller/UniversalMaterialWhite.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Controller/White.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Arrows.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Chrome.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Concrete Blue.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Concrete Grey.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Concrete.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Concrete_Albedo.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Concrete_Metallic.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Concrete_Normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Dark Green.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/FauxBackgroundBlur.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Frosted_Glass_Pattern_AlbedoTransparency.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Glass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Grey.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Grid Dark Large.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Grid Dark Tight.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Wall Cut.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/Wall Default.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall2_Base_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall2_Height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall2_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall2_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall2_Normal_OpenGL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall2_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall_Base_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall_Height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall_Normal_OpenGL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Environment/wall_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Locomotion/Angle Indicator.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Locomotion/BlinkLine.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Locomotion/BlinkOcclusionPass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Locomotion/BlinkOcclusionTexture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Locomotion/Blue Standard.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Locomotion/FlatBlue.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Locomotion/Standard White.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Particles/ConfettiParticles.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Pointer/Pointer Outline.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/Cube_Fabric.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/Green.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/Interactables 2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/Interactables 3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/Interactables 4.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/Interactables 5.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/Interactables Bouncy.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/Interactables.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/Interactables.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/Sticky.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/Torus.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/fabric_Base_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/fabric_Height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/fabric_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/fabric_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/fabric_Normal_OpenGL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/fabric_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/torus_Base_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/torus_Height.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/torus_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/torus_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/torus_Normal_OpenGL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Primitive/torus_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Skybox/Horizontal Skybox.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Skybox/Hub Skybox Blue 2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Skybox/skybox01_openGL.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/Skybox/skybox01_openGL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/UI/BezierLink.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/UI/Blue.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/UI/Handle.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/UI/Torus Cursor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/UI/VideoTexture.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Materials/UI/torus_cursorShape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Anchor/AnchorArrow.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Anchor/AnchorBase.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Anchor/AnchorFade.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Anchor/AnchorFadeScale.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Blink/BlinkVisual.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Controllers/UniversalController.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Cursors/cursor.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Environment/Arrows.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Environment/Blaster.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Environment/Template Environment.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Environment/Torus Cut.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Environment/Totem1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Environment/Totem2.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Marks/Marks.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Poke/PokePointer.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Primitives/Cube.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Primitives/Cylinder.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Primitives/Sphere.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Primitives/Tapered Cylinder.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/Primitives/Torus.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Models/UI/Spatial Panel Manipulator Model.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/Affordance/Affordance Callout.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/Blaster/Confetti.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/Blink/Blink Visuals.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/Controller/Left Controller.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/Controller/Right Controller.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/Controller/Universal Controller Materials Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/Cursors/Torus Cursor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/Setup/Complete XR Origin Set Up Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/Teleport/Teleport Anchor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/TutorialPlayer/Tutorial Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/UI/Dropdown.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/UI/List Item Button.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/UI/List Item Dropdown.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/UI/List Item Slider.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/UI/List Item Toggle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Prefabs/UI/Spatial Panel Scroll.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/AnchorVisuals.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/BezierCurve.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/BooleanToggleVisualsController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/Callout.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/CalloutGazeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/DestroyObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/LaunchProjectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/RayAttachModifier.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/Rotator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/StepManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/VideoPlayerRenderTexture.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/VideoTimeScrubControl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/XRKnob.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Scripts/XRPokeFollowAffordanceFill.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Shaders/FauxBlurURP.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Shaders/Grid.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Shaders/InteractablePrimitive.shadergraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Shaders/TexturedFresnelStandard.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Shaders/TexturedStableFresnelCommon.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/CoachingCards/Coaching Step 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/CoachingCards/Coaching Step 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/CoachingCards/Coaching Step 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/CoachingCards/Coaching Step 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/CoachingCards/Coaching Step 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/CoachingCards/Coaching Step 6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Checkmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Chevron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Rotate Left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Rotate Right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Scroll Down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Scroll Left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Scroll Right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Scroll Up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/Icons/Teleport.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/UI/CircleMask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/UI/Circle_60x60 Outline 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/UI/Circle_60x60 Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/UI/Circle_60x60_Horizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/UI/Circle_60x60_Vertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/UI/Joystick BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/UI/Joystick Segment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/UI/Round Radius 10 Bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/UI/Round Radius 10 Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/UI/Round Radius 10 Top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Sprites/UI/Round Radius 10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Themes/AnchorAffordanceTheme.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Themes/AudioAffordanceTheme.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Themes/BlasterAudioAffordanceTheme.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Themes/BlendShapeAffordanceTheme.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Themes/ColorAffordanceTheme.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Themes/EdgeColorAffordanceTheme.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Tutorial/Images/1-welcome-screen-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Tutorial/Images/project-header-vr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Tutorial/TutorialLayout.wlt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Tutorial/VRTutorialContainer.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Tutorial/VRTutorialProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Tutorial/VRTutorialStyle.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Tutorial/VRTutorialWelcomePage.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/VRTemplateAssets/Videos/onboarding_video_final.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Loaders/Oculus Loader.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Loaders/Open XR Loader No Pre Init.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Loaders/Open XR Loader.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Loaders/PXR_Loader.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Settings/Oculus Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Settings/PXR_Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/XRGeneralSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/InteractionLayerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/XRDeviceSimulatorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI/Settings/XRInteractionEditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_Android.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/CommonBurstAotSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRPackageSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../parsec-sdk-csharp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2414576404eb4cf49618ef09cb0950d414000/38/0eeea7b8/Parsec.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4dc28b26b16d4aad8fb12085db6780cf13e00/98/b99b6600/Parsec.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/df355c152224475b8eacbd1d5b4821dfe800/29/32ae000c/ClientConfig.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../CSharp/parsec-sdk-csharp/ParsecSharp/ParsecSharp.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2W28drcMCDvIuPHzDwka3oA0jXe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\DearVa\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\DearVa\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\DearVa\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="附加到 Unity 编辑器.附加到 Unity 编辑器">
+    <configuration name="启动 Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath G:\Source\ParsecVR\ParsecVR -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="G:\Source\ParsecVR\ParsecVR" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="独立播放器" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../Desktop/ParsecVR\ParsecVR.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="G:\Desktop\ParsecVR" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="单元测试(批处理模式)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath G:\Source\ParsecVR\ParsecVR -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="G:\Source\ParsecVR\ParsecVR" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="附加到 Unity 编辑器并运行" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="附加到 Unity 编辑器" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="59716">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="59716" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="11db6b32-2ebb-4fac-99e8-fbf3881ed834" name="更改" comment="" />
+      <created>1695919404816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695919404816</updated>
+      <workItem from="1695919405956" duration="6053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+[submodule "parsec-sdk-csharp"]
+	path = parsec-sdk-csharp
+	url = https://github.com/DearVa/parsec-sdk-csharp
